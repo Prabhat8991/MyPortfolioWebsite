@@ -1,0 +1,42 @@
+
+.intro {
+    display: grid;
+    grid-template-rows: 1fr 2fr;
+    grid-template-columns: 1fr;
+    height: 100vh
+}
+
+.source-code-pro {
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.section {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.bottom {
+    justify-content: space-around;
+    align-items: center;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    align-self: center;
+    margin-left: 20px;
+    border-radius: 50%;
+}
+
+#introheader {
+    align-self: center;
+    margin-left: 5%;
+}
+
+h1,h2 {
+    color: white;
+}
