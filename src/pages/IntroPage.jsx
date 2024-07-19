@@ -11,6 +11,8 @@ function IntroPage() {
                 <div id='introheader'>
                 <h1 className='source-code-pro '>Hi, I am Prabhat Singh</h1>
                 <h2 className='source-code-pro '>Mobile and Web Developer</h2>
+                <h3 className='source-code-pro ' style={{color:'yellow'}}>Website is under development</h3>
+
                 </div>
             </div>
             <div className='section bottom' style={{background: '#f0f8ff', fontSize: '2em'}}>
