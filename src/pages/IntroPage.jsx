@@ -13,7 +13,7 @@ function IntroPage() {
                 <h2 className='source-code-pro '>Mobile and Web Developer</h2>
                 </div>
             </div>
-            <div className='section bottom' style={{background: '#f0f8ff', fontSize: '2em'}}>
+            <div className='section bottom' style={{background: '#f0f8ff', fontSize: '2em', padding: '20px'}}>
                 <a href='https://medium.com/@singh.prabhat8991' className='source-code-pro'>Blogs</a>
                 <a href='https://www.linkedin.com/in/prabhat-singh-429325111/' className='source-code-pro'>LinkedIn</a>
                 <a href='https://leetcode.com/u/Gambit8991/'  className='source-code-pro'>LeetCode</a>
